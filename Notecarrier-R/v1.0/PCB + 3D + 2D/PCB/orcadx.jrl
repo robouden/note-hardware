@@ -1,0 +1,144 @@
+\t (00:02:16) orcadx 23.1 S003 Windows SPB 64-bit Edition
+\t (00:02:16)     Journal start - Wed Apr 17 08:39:09 2024
+\t (00:02:16)         Host=DESKTOP-MLM0JU9 User=kees Pid=11532 CPUs=12
+\t (00:02:16) CmdLine= C:\Cadence\OrCADX_23.1\tools\bin\unison.exe -layout -orcadx
+\t (00:02:16) 
+\d (00:02:16) Design opened: Z:/Documents/Blues hardware/From Github orginal/note-hardware/Notecarrier-R/v1.0/PCB + 3D + 2D/PCB/20231252_notecarrier-m2-r_v1.brd
+\i (00:02:17) updateport VisibilityPane
+\i (00:02:17) updateport PropPane
+\i (00:02:17) ucpedit 
+\i (00:02:17) updateport VisibilityPane
+\i (00:02:21) zoom in 1 
+\i (00:02:21) setwindow pcb
+\i (00:02:21) zoom in 6.6417 3.3919
+\i (00:02:21) trapsize 1243
+\i (00:02:21) zoom in 1 
+\i (00:02:21) setwindow pcb
+\i (00:02:21) zoom in 6.6417 3.3919
+\i (00:02:21) trapsize 621
+\i (00:02:21) zoom in 1 
+\i (00:02:21) setwindow pcb
+\i (00:02:21) zoom in 6.6418 3.3919
+\i (00:02:21) trapsize 311
+\i (00:02:23) zoom out 1 
+\i (00:02:23) setwindow pcb
+\i (00:02:23) zoom out 6.8779 3.5100
+\i (00:02:23) trapsize 621
+\i (00:02:23) zoom out 1 
+\i (00:02:23) setwindow pcb
+\i (00:02:23) zoom out 6.9524 3.5101
+\i (00:02:23) trapsize 1243
+\i (00:02:23) zoom out 1 
+\i (00:02:23) setwindow pcb
+\i (00:02:23) zoom out 6.9773 3.5349
+\i (00:02:23) trapsize 2485
+\i (00:02:23) zoom out 1 
+\i (00:02:23) setwindow pcb
+\i (00:02:23) zoom out 7.1264 3.5845
+\i (00:02:23) trapsize 4971
+\i (00:02:24) pick grid -0.7275 16.4093
+\t (00:02:24) last pick:  -0.7275 16.4093
+\i (00:02:25) updateport VisibilityPane
+\i (00:02:28) zoom in 1 
+\i (00:02:28) setwindow pcb
+\i (00:02:28) zoom in -16.1370 -3.6728
+\i (00:02:28) trapsize 2485
+\i (00:02:28) zoom in 1 
+\i (00:02:28) setwindow pcb
+\i (00:02:28) zoom in -16.1370 -3.6727
+\i (00:02:28) trapsize 1243
+\i (00:02:30) zoom out 1 
+\i (00:02:30) setwindow pcb
+\i (00:02:30) zoom out -1.6471 1.2235
+\i (00:02:30) trapsize 2485
+\i (00:02:30) zoom out 1 
+\i (00:02:30) setwindow pcb
+\i (00:02:30) zoom out -1.6471 1.2235
+\i (00:02:30) trapsize 4971
+\i (00:02:34) QtSignal DisplayShadow OriginSaturationValue editingFinished "100"
+\i (00:02:34) QtSignal VisLayerToolbarAllButton All clicked on
+\i (00:02:34) updateport ReportsPane
+\i (00:02:34) updateport SearchPane
+\i (00:02:34) updateport VisibilityPane
+\i (00:02:34) updateport PropPane
+\i (00:02:36) zoom in 1 
+\i (00:02:36) setwindow pcb
+\i (00:02:36) zoom in -27.2964 -12.8935
+\i (00:02:36) trapsize 2485
+\i (00:02:36) zoom in 1 
+\i (00:02:36) setwindow pcb
+\i (00:02:36) zoom in -27.2964 -12.8935
+\i (00:02:36) trapsize 1243
+\i (00:02:36) zoom in 1 
+\i (00:02:36) setwindow pcb
+\i (00:02:36) zoom in -27.2964 -12.8935
+\i (00:02:36) trapsize 621
+\i (00:02:37) zoom out 1 
+\i (00:02:37) setwindow pcb
+\i (00:02:37) zoom out -24.9228 -11.5886
+\i (00:02:37) trapsize 1243
+\i (00:02:37) zoom out 1 
+\i (00:02:37) setwindow pcb
+\i (00:02:37) zoom out -24.8730 -11.6384
+\i (00:02:37) trapsize 2485
+\i (00:02:37) zoom out 1 
+\i (00:02:37) setwindow pcb
+\i (00:02:37) zoom out -24.7239 -11.8869
+\i (00:02:37) trapsize 4971
+\i (00:02:41) zoom in 1 
+\i (00:02:41) setwindow pcb
+\i (00:02:41) zoom in -24.3262 -8.5068
+\i (00:02:41) trapsize 2485
+\i (00:02:41) zoom in 1 
+\i (00:02:41) setwindow pcb
+\i (00:02:41) zoom in -24.2267 -8.5564
+\i (00:02:41) trapsize 1243
+\i (00:02:42) zoom out 1 
+\i (00:02:42) setwindow pcb
+\i (00:02:42) zoom out -23.8042 -6.8663
+\i (00:02:42) trapsize 2485
+\i (00:02:42) zoom out 1 
+\i (00:02:42) setwindow pcb
+\i (00:02:42) zoom out -23.8042 -6.8663
+\i (00:02:42) trapsize 4971
+\i (00:02:49) zoom fit 
+\i (00:02:49) trapsize 1677
+\i (00:02:54) pick grid 6.5567 13.8853
+\t (00:02:54) last pick:  6.5567 13.8853
+\i (00:02:54) updateport ReportsPane
+\i (00:02:54) updateport SearchPane
+\i (00:02:54) updateport VisibilityPane
+\i (00:02:54) updateport PropPane
+\i (00:02:55) pick grid 6.5567 13.8853
+\t (00:02:55) last pick:  6.5567 13.8853
+\i (00:02:55) updateport ReportsPane
+\i (00:02:55) updateport SearchPane
+\i (00:02:55) updateport VisibilityPane
+\i (00:02:55) updateport PropPane
+\i (00:02:56) pick grid 6.7579 13.7176
+\t (00:02:56) last pick:  6.7579 13.7176
+\i (00:02:56) updateport ReportsPane
+\i (00:02:56) updateport SearchPane
+\i (00:02:56) updateport VisibilityPane
+\i (00:02:56) updateport PropPane
+\i (00:02:57) drag_start grid 6.9591 13.8182
+\i (00:02:57) ucp_trace_slide_pick 
+\t (00:02:57) last pick:  6.9800 13.9000
+\t (00:02:57) Waiting for the destination pick.
+\t (00:02:57) New cline would result in DRC error(s); retaining old cline.
+\i (00:02:57) updateport VisibilityPane
+\i (00:02:57) drag_stop grid 7.8646 14.0194
+\t (00:02:58) No DRC errors detected.
+\i (00:02:58) updateport ReportsPane
+\i (00:02:58) updateport SearchPane
+\i (00:02:58) updateport VisibilityPane
+\i (00:02:58) updateport PropPane
+\i (00:02:58) ucpedit 
+\i (00:02:58) updateport VisibilityPane
+\i (00:02:58) pick grid 17.1544 15.9311
+\t (00:02:58) last pick:  17.1544 15.9311
+\i (00:02:58) updateport ReportsPane
+\i (00:02:58) updateport SearchPane
+\i (00:02:58) updateport VisibilityPane
+\i (00:02:58) updateport PropPane
+\t (00:03:07)     Journal end - Wed Apr 17 08:39:59 2024
